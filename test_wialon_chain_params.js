@@ -1,4 +1,4 @@
-const {params} = require('./index.js')
+const {params} = require('../wialon_chain_params')
 
 console.log(
     params
