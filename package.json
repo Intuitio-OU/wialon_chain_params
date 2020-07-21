@@ -1,0 +1,11 @@
+{
+  "name": "wialon_chain_params",
+  "version": "1.0.0",
+  "description": "Wialon different functionality chain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
